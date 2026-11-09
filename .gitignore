@@ -1,0 +1,21 @@
+# simulation outputs
+build/
+build_xrun/
+*.vvp
+*.vcd
+*.fst
+
+# Cadence Xcelium / SimVision
+xcelium.d/
+INCA_libs/
+*.shm/
+waves.*
+xrun.history
+xrun.log
+cov_work/
+
+# Vivado
+.Xil/
+*.jou
+*.log
+*.str
